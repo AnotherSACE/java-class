@@ -6,10 +6,15 @@ public class WindowMaster {
         // Declare strings to be parsed
         String stringHeight = "";
         String stringWidth = "";
+        String stringWinCost = "";
+        String stringTrimCost = "";
+
 
         // Declare input variables
         float height = 0;
         float width = 0;
+        float winCost = 0;
+        float trimCost = 0;
 
 
         // Declare output variables
@@ -28,8 +33,14 @@ public class WindowMaster {
                 stringHeight = myScanner.nextLine();
                 System.out.println("Enter the Width");
                 stringWidth = myScanner.nextLine();
+                System.out.println("Enter the Trim price:");
+                stringTrimCost = myScanner.nextLine();
+                System.out.println("Enter the Window price:");
+                stringWinCost = myScanner.nextLine();
                 height = Float.parseFloat(stringHeight);
                 width = Float.parseFloat(stringWidth);
+                trimCost = Float.parseFloat(stringTrimCost);
+                winCost = Float.parseFloat(stringWinCost);
                 valid = true;
             } catch (NumberFormatException ex) {
                 System.out.println("Please enter valid numbers!");
@@ -39,7 +50,7 @@ public class WindowMaster {
         // Calculate final output variables
         area = height * width;
         perimeter = 2*(height + width);
-        cost = (3.5f * area) + (2.25f * perimeter);
+        cost = (winCost * area) + (trimCost * perimeter);
 
         System.out.println("Window height = " + stringHeight);
         System.out.println("Window width = " + stringWidth);
