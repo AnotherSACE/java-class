@@ -23,7 +23,7 @@ public class RockPaperScissors {
             isValid = false; // Reset in case the user enters something wrong on the second loop
             do {
                 try {
-                    System.out.println("Rock (1), Paper (2) or Scissors (3?");
+                    System.out.println("Rock, Paper or Scissors?");
                     userInput = sc.nextLine();
                     if (!(userInput.equals("rock") ||
                             userInput.equals("paper") ||
@@ -93,13 +93,11 @@ public class RockPaperScissors {
                 }
             }
         }
-
         // Prints the wins at the end of the game
         System.out.println("Wins: " + wins + " \nLosses: " + losses + "\nTies: " + ties);
         if (wins > losses) System.out.println("Congrats, you're the overall winner!");
         else if (wins < losses) System.out.println("Aww, better luck next time!");
         else System.out.println("Looks like we tied...");
         System.out.println("Thanks for playing!");
-        }
     }
 }
