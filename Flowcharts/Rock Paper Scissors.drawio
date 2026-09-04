@@ -1,0 +1,242 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="5CoCYnqaIejKyJ0s2kRr">
+    <mxGraphModel dx="333" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-4" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="170" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-6" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-3" parent="1" style="whiteSpace=wrap;html=1;" value="Ask user for input" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-8" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-5" parent="1" style="whiteSpace=wrap;html=1;" value="Recieve input" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-10" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="TNYsR6-Qsxx8Ti6ihvMA-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="470" />
+            </Array>
+            <mxPoint x="430" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-11" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2629" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-13" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-14" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.4233" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Is it valid?" vertex="1">
+          <mxGeometry height="80" width="80" x="390" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-16" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-12" parent="1" style="whiteSpace=wrap;html=1;" value="Generate random number and / 3" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-18" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-19" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0" vertex="1">
+          <mxGeometry relative="1" x="-0.2024" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-21" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1010" />
+              <mxPoint x="430" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-22" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.2011" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-24" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-25" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2" vertex="1">
+          <mxGeometry relative="1" x="0.3951" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="What is the remainder?" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-32" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-17" parent="1" style="whiteSpace=wrap;html=1;" value="Computer generated rock" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-34" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-20" parent="1" style="whiteSpace=wrap;html=1;" value="Computer generated paper" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-36" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-23" parent="1" style="whiteSpace=wrap;html=1;" value="Computer generated scissors" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-40" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-39" value="&lt;div&gt;Rock&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="What is the user input?" vertex="1">
+          <mxGeometry height="80" width="80" x="180" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-42" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-57" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Scissors" vertex="1">
+          <mxGeometry relative="1" x="-0.2646" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-48" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" target="TNYsR6-Qsxx8Ti6ihvMA-39" value="Paper">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-61" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="1220" />
+              <mxPoint x="550" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-70" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Rock" vertex="1">
+          <mxGeometry relative="1" x="0.1329" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="What is the user input?" vertex="1">
+          <mxGeometry height="80" width="80" x="390" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-44" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-55" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Paper" vertex="1">
+          <mxGeometry relative="1" x="-0.2328" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-51" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TNYsR6-Qsxx8Ti6ihvMA-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="1220" />
+              <mxPoint x="740" y="1550" />
+              <mxPoint x="220" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-56" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Scissors" vertex="1">
+          <mxGeometry relative="1" x="-0.642" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-69" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="TNYsR6-Qsxx8Ti6ihvMA-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1190" />
+              <mxPoint x="500" y="1190" />
+              <mxPoint x="500" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-71" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Rock" vertex="1">
+          <mxGeometry relative="1" x="-0.5506" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="What is the user input?" vertex="1">
+          <mxGeometry height="80" width="80" x="590" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-46" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="TNYsR6-Qsxx8Ti6ihvMA-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="1380" />
+              <mxPoint x="40" y="480" />
+            </Array>
+            <mxPoint x="122.9" y="1342.64" as="sourcePoint" />
+            <mxPoint x="70.02000000000001" y="470.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-39" parent="1" style="whiteSpace=wrap;html=1;" value="Stalemate" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-53" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-41" parent="1" style="whiteSpace=wrap;html=1;" value="User wins" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-43" parent="1" style="whiteSpace=wrap;html=1;" value="Computer wins" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-52" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="180" x="340" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-54" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TNYsR6-Qsxx8Ti6ihvMA-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="1380" />
+              <mxPoint x="545" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-64" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="TNYsR6-Qsxx8Ti6ihvMA-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1160" />
+              <mxPoint x="580" y="1160" />
+            </Array>
+            <mxPoint x="253" y="1190" as="sourcePoint" />
+            <mxPoint x="573" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-66" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Scissors" vertex="1">
+          <mxGeometry relative="1" x="-0.662" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-72" edge="1" parent="1" source="TNYsR6-Qsxx8Ti6ihvMA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" target="TNYsR6-Qsxx8Ti6ihvMA-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNYsR6-Qsxx8Ti6ihvMA-73" connectable="0" parent="TNYsR6-Qsxx8Ti6ihvMA-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Paper" vertex="1">
+          <mxGeometry relative="1" x="-0.3605" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

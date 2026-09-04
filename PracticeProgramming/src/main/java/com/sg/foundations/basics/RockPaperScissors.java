@@ -18,25 +18,25 @@ public class RockPaperScissors {
         Random rand = new Random();
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to Rock Paper Scissors! How many games do you want to play?");
-        do {
-            try {
-                userInput = sc.nextLine();
-                numRounds = Integer.parseInt(userInput);
-                if (numRounds < 1 || numRounds > 10) throw new IllegalArgumentException("Invalid choice");
-                isValid = true;
-            } catch (IllegalArgumentException e) {
-                System.out.println("Please enter a number between 1 and 10");
-            }
-        } while (!isValid);
-
-
-        // Loop through the puzzle
         while (playAgain) {
+            System.out.println("Welcome to Rock Paper Scissors! How many games do you want to play?");
+            do {
+                try {
+                    userInput = sc.nextLine();
+                    numRounds = Integer.parseInt(userInput);
+                    if (numRounds < 1 || numRounds > 10) throw new IllegalArgumentException("Invalid choice");
+                    isValid = true;
+                } catch (IllegalArgumentException e) {
+                    System.out.println("Please enter a number between 1 and 10");
+                }
+            } while (!isValid);
+
+
+            // Loop through the puzzle
             for (int i = 0; i < numRounds; i++) {
 
                 // Ask user for their choice
-                isValid = false; // Reset in case the user enters something wrong on the second loop
+                isValid = false; // Reset in case thedd user enters something wrong on the second loop
                 System.out.println("Rock (1), Paper (2) or Scissors (3)?");
 
                 // Make sure the user enters a valid number
@@ -118,9 +118,8 @@ public class RockPaperScissors {
 
             // Reset the wins and losses
             wins = 0; losses = 0; ties = 0;
-
+            isValid = false;
         }
-
         // The user has decided not to continue playing
         System.out.println("Thanks for playing!");
     }
