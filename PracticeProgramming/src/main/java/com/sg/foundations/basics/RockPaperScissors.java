@@ -66,7 +66,6 @@ public class RockPaperScissors {
                         break;
                 }
 
-
                 // Check for a tie
                 if (computerChoice == userChoice) {
                     ties++;
