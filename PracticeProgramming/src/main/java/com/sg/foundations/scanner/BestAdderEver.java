@@ -1,4 +1,4 @@
-package com.sg.foundations.variables;
+package com.sg.foundations.scanner;
 
 public class BestAdderEver {
 
