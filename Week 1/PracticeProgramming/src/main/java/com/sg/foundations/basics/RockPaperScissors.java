@@ -89,9 +89,11 @@ public class RockPaperScissors {
             // Prints the stats at the end of the game
 
             System.out.println("Wins: " + wins + " \nLosses: " + losses + "\nTies: " + ties);
+
             if (wins > losses) System.out.println("Congrats, you're the overall winner!");
             else if (wins < losses) System.out.println("Aww, better luck next time!");
             else System.out.println("Looks like we tied...");
+
             System.out.println("Want to play again? (y/n)");
 
             // Check if the user wants to play again

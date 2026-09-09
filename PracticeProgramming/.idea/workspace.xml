@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a39a1f9d-0e12-43a8-a3f3-8b778d85f90e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hello World Code along/HelloWorld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World Code along/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World Code along/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World Code along/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World Code along/HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World Code along/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World Code along/HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Factorial-main/.github/workflows/maven.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Factorial-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Factorial-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Factorial-main/factorial/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Factorial-main/factorial/src/main/java/com/wiley/assignment1/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Factorial-main/factorial/src/test/java/com/wiley/assignment1/TestFactorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/basics/ABeginning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/basics/AllTheMaths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/basics/CommetingCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/basics/ProjectGutenberg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/basics/RockPaperScissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/fors/ForAndTwentyBlackbirds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/fors/TraditionalFIzzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/ifs/LlamasWhalesAndDodosOhMy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/ifs/MiniZork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/random/ALittleChaos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/random/GuessMeMore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/whiles/LazyTeenager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/flowcontrol/whiles/WaitAWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/AllTheTrivia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/BestAdderEver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/BiggerBetterAdder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/DoItBetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/DontForgetToStoreIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/HealthyHearts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/MiniMadLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/PassingTheTuringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/scanner/QuestForTheUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/variables/AllAboutMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/variables/InABucket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/variables/MenuOfChampions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/variables/MoreBucketsMoreFun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sg/foundations/variables/TheOrderOfThings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/WindowMaster.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/src/WindowMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WindowMaster/src/WindowMasterDebug.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IpFA6DW8TK4FwoGPjMCWP9Icyy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ABeginning.executor": "Run",
+    "Application.ALittleChaos.executor": "Run",
+    "Application.AllAboutMe.executor": "Run",
+    "Application.AllTheMaths.executor": "Run",
+    "Application.AllTheTrivia.executor": "Run",
+    "Application.BestAdderEver.executor": "Run",
+    "Application.BiggerBetterAdder.executor": "Run",
+    "Application.CommetingCode.executor": "Run",
+    "Application.DoItBetter.executor": "Run",
+    "Application.DontForgetToStoreIt.executor": "Run",
+    "Application.ForAndTwentyBlackbirds.executor": "Run",
+    "Application.GuessMeMore.executor": "Run",
+    "Application.HealthyHearts.executor": "Run",
+    "Application.InABucket.executor": "Run",
+    "Application.LazyTeenager.executor": "Run",
+    "Application.LlamasWhalesAndDodosOhMy.executor": "Run",
+    "Application.MenuOfChampions.executor": "Run",
+    "Application.MiniMadLibs.executor": "Run",
+    "Application.MiniZork.executor": "Run",
+    "Application.MoreBucketsMoreFun.executor": "Run",
+    "Application.PassingTheTuringTest.executor": "Run",
+    "Application.ProjectGutenberg.executor": "Run",
+    "Application.QuestForTheUserInput.executor": "Run",
+    "Application.RockPaperScissors.executor": "Run",
+    "Application.TheOrderOfThings.executor": "Run",
+    "Application.TraditionalFIzzBuzz.executor": "Run",
+    "Application.WaitAWhile.executor": "Run",
+    "Application.testFile.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/fahee/Documents/Mthree/java-class/PracticeProgramming",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a39a1f9d-0e12-43a8-a3f3-8b778d85f90e" name="Changes" comment="" />
+      <created>1788453459177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788453459177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
