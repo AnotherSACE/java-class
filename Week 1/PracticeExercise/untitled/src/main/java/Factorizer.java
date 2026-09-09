@@ -30,7 +30,7 @@ public class Factorizer {
                 perfect += i;
             }
         }
-        
+
         // We must print the number itself as a factor as 1 and the number are counted here
         System.out.println(num);
         counter++;
